@@ -1,0 +1,10 @@
+<script type="text/javascript">
+	alert("the numberer is end");
+	alert("test1")
+	int a =5;
+	if (a==5 or a<5)
+		alert("the number is " + a);
+		
+
+ // End of communication function
+</script>
