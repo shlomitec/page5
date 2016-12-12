@@ -1,0 +1,11 @@
+<script type="text/javascript">
+	
+	int a =8;
+	if ( a<5)
+		alert("the number is " + a);
+		a--;
+	else
+		alert("the numcer is end")
+
+ // End of communication function
+</script>
